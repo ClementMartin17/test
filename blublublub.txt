@@ -1,5 +1,10 @@
 mabite
 ouéoué
 blublbulbublub
+<<<<<<< HEAD
 JE SUIS UNE BANANE FLAMBEE
 je suis un push de merde
+=======
+je suis beau comme rudy 
+coucou
+>>>>>>> clement
